@@ -16,4 +16,4 @@ Pull requests are welcome. I will appreciate any help on either enhancing the ex
 - Clone the project to your own machine.
 - Commit changes to your own branch.
 - Push your work back up to your fork.
-- Submit a Pull request so that we can review your changes.
+- Submit a Pull request so that I can review your changes.
