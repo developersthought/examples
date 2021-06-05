@@ -1,4 +1,4 @@
-Official Open Source repository of "Developers Thought" [Blog](https://developersthought.in/) and [YouTube](https://www.youtube.com/developersthought) Channel.
+### Official Open Source repository of "Developers Thought" [Blog](https://developersthought.in/) and [YouTube](https://www.youtube.com/developersthought) Channel.
 
 ## Content
 
