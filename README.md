@@ -8,3 +8,12 @@ Official Open Source repository for Developers Thought [Blog](https://developers
 - [How to effectively Tag a Cloud Resource?](https://github.com/developersthought/examples/tree/main/blog/tag_cloud)
 - [Demystify Pointers in Go](https://github.com/developersthought/examples/tree/main/blog/demystify_pointers_in_go)
 
+## Contributing
+
+Pull requests are welcome. I will appreciate any help on either enhancing the existing example/program or the addition of a new example/program.
+
+- Fork the repo on GitHub.
+- Clone the project to your own machine.
+- Commit changes to your own branch.
+- Push your work back up to your fork.
+- Submit a Pull request so that we can review your changes.
