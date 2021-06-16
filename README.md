@@ -7,6 +7,7 @@
 - [Executing Shell Script in Terraform via Null Resource](https://github.com/developersthought/examples/tree/main/blog/null_resource_exec)
 - [How to effectively Tag a Cloud Resource?](https://github.com/developersthought/examples/tree/main/blog/tag_cloud)
 - [Demystify Pointers in Go](https://github.com/developersthought/examples/tree/main/blog/demystify_pointers_in_go)
+- [A quick guide on How to extend kubectl with plugins?](https://github.com/developersthought/examples/tree/main/blog/kubectl-plugin)
 
 ## Contributing
 
