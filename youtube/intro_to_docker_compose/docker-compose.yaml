@@ -1,0 +1,27 @@
+version: "3"
+networks:
+  mynet:
+    driver: bridge
+services:
+  backend:
+    image: mysql:latest
+    container_name: backend
+    ports:
+      - 3306:3306
+    networks:
+      - mynet
+    environment:
+      MYSQL_ROOT_PASSWORD: "test"
+  frontend:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: frontend
+    ports:
+      - 80:80
+    networks:
+      - mynet
+    depends_on:
+      - backend
+    environment:
+      MYSQL_ROOT_PASSWORD: "test"
+      PMA_HOST: "backend"
+      PMA_PORT: 3306
